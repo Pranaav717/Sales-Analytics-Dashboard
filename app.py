@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════╗
 ║   Sales Analytics Dashboard — Power BI Style                    ║
-║   Author : Asha Kalavagunta  |  Built with Streamlit + Plotly   ║
+║   Author : PranaavKarthik  |  Built with Streamlit + Plotly   ║
 ║   Dataset: Kaggle Superstore (Sample - Superstore.csv)           ║
 ╚══════════════════════════════════════════════════════════════════╝
 """
@@ -19,7 +19,7 @@ from datetime import datetime
 # PAGE CONFIG
 # ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="Sales Analytics Dashboard | Asha Kalavagunta",
+    page_title="Sales Analytics Dashboard | PranaavKarthik",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -262,7 +262,7 @@ st.markdown(f"""
 <div class="author-bar">
   <div>
     <div class="author-name">📊 Sales Analytics Dashboard</div>
-    <div class="author-role">Asha Kalavagunta &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; BI Developer &nbsp;·&nbsp; Kaggle Superstore Dataset</div>
+    <div class="author-role">Pranaav &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; BI Developer &nbsp;·&nbsp; Kaggle Superstore Dataset</div>
   </div>
   <div class="live-badge">⚡ LIVE · {len(fdf):,} records filtered</div>
 </div>
@@ -628,10 +628,4 @@ with st.expander("🔎 Anomaly & Trend Highlights", expanded=False):
 # ─────────────────────────────────────────────
 st.markdown("---")
 st.markdown("""
-<div style='text-align:center;font-size:11px;color:#4a5568;padding:8px 0;'>
-  <strong style='color:#8892a4;'>Asha Kalavagunta</strong> &nbsp;·&nbsp; Data Analyst Portfolio &nbsp;·&nbsp;
-  Kaggle Superstore Dataset &nbsp;·&nbsp; Built with Python · Streamlit · Plotly &nbsp;·&nbsp;
-  <a href='https://github.com/Ashakalavagunta' target='_blank' style='color:#6b7a99;'>GitHub</a> &nbsp;·&nbsp;
-  <a href='https://www.linkedin.com/in/asha-kalavagunta-80031b223/' target='_blank' style='color:#6b7a99;'>LinkedIn</a>
-</div>
 """, unsafe_allow_html=True)
