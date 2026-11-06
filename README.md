@@ -184,12 +184,9 @@ plotly>=5.18.0
 
 ## About the Author
 
-**Asha Kalavagunta** — Data Analyst
+**Pranaav Karthik** — Data Analyst
 
-Skilled in Python · SQL · Power BI · Tableau · Excel · Machine Learning · Streamlit
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asha-kalavagunta-80031b223/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashakalavagunta)
+Skilled in Python · SQL · Power BI · Tableau · Excel · Machine Learning · Streamli
 
 ---
 
