@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-> ** [Open Live Dashboard](https://sales-analytics-dashboard-rtbidn7ctap4xfhj3aqgr6.streamlit.app/)**
+> ** [Open Live Dashboard](https://agpcufyaffhkwdf6ubjziq.streamlit.app/)**
 
 ---
 
