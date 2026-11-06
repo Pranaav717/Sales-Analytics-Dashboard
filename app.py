@@ -262,7 +262,7 @@ st.markdown(f"""
 <div class="author-bar">
   <div>
     <div class="author-name">📊 Sales Analytics Dashboard</div>
-    <div class="author-role">Pranaav &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; BI Developer &nbsp;·&nbsp; Kaggle Superstore Dataset</div>
+    <div class="author-role">PranaavKarthik &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; BI Developer &nbsp;·&nbsp; Kaggle Superstore Dataset</div>
   </div>
   <div class="live-badge">⚡ LIVE · {len(fdf):,} records filtered</div>
 </div>
